@@ -1,0 +1,7 @@
+name: drp_core
+version: '${project.version}'
+main: ml.jozo.drp_core.Drp_core
+api-version: 1.19
+authors: [Jozo_85]
+description: Plugin for Diveregence 
+website: divergencerp.ml
