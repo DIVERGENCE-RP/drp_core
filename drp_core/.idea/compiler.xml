@@ -6,13 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="drp_core (1)" />
-        <module name="drp_core (2)" />
+        <module name="drp_core" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="drp_core" target="1.8" />
       <module name="drp_core (1)" target="1.5" />
-      <module name="drp_core (2)" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

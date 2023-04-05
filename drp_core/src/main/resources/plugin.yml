@@ -5,3 +5,10 @@ api-version: 1.19
 authors: [Jozo_85]
 description: Plugin for Diveregence 
 website: divergencerp.ml
+commands:
+  fly:
+    description: Příkaz na zapnutí létání
+    usage: /fly
+    aliases: f
+    permission: fly
+    permission-message: Nemáš práva
